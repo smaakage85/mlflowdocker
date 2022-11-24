@@ -1,5 +1,7 @@
 # Containerized training with MLflow
 
+Borrowed from official [MLflow example](https://github.com/mlflow/mlflow/tree/master/examples/docker).
+
 Build docker image
 
 ```
@@ -11,8 +13,6 @@ Run training in docker container
 ```
 mlflow run . -P alpha=0.5
 ```
-
-Borrowed for official [MLflow example](https://github.com/mlflow/mlflow/tree/master/examples/docker).
 
 
 
