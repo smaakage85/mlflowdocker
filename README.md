@@ -1,15 +1,15 @@
 # Guide
 
-Build docker image :)
+Build docker image
 
 ```
-make build
+docker build -t mlflow-docker-example .
 ```
 
 Run training in docker container
 
 ```
-make run
+mlflow run . -P alpha=0.5
 ```
 
 ## Findings
