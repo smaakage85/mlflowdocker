@@ -1,6 +1,6 @@
 # Guide
 
-Build docker image
+Build docker image :)
 
 ```
 make build
