@@ -1,4 +1,4 @@
-# Containerized training with MLflow
+# Containerized Training with MLflow
 
 Borrowed from official [MLflow example](https://github.com/mlflow/mlflow/tree/master/examples/docker).
 
