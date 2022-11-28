@@ -2,6 +2,10 @@
 
 Borrowed from official [MLflow example](https://github.com/mlflow/mlflow/tree/master/examples/docker).
 
+In order to run this, install `mlflow` >= 2.0 and `docker`.
+
+# Run
+
 Build docker image
 
 ```
